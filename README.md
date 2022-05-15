@@ -1,8 +1,7 @@
 <div align="center"> 
   <h1><em>Hana's World!</em></h1>
-  <p> my name is hana lee! 🐤</p>
-  
-<img width="300" alt="스크린샷 2022-04-22 오후 11 36 37" src="https://user-images.githubusercontent.com/92962681/166207510-f40f8902-9c87-47bc-b899-716dbdea1479.png">
+  <p><em>I'm a junior developer living in Korea ✨</em></p>
+  <img width="300" alt="스크린샷 2022-04-22 오후 11 36 37" src="https://user-images.githubusercontent.com/92962681/166207510-f40f8902-9c87-47bc-b899-716dbdea1479.png">
   <h2><em>MY PROJECT 👏</em></h2>
   <a href="http://pager.kr/~c15st21/Portfolio/myBlog/html/pug/"><img src="https://img.shields.io/badge/💜 HANA's ROOM-e7b9ff?style=for-the-badge"/></a>
   </br>
@@ -31,6 +30,6 @@
   
   
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=21color&show_icons=true&theme=outrun)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21color&layout=compact&theme=outrun)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=21color&show_icons=true&theme=buefy)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21color&layout=compact&theme=buefy)
 
 </div>
