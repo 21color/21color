@@ -31,8 +31,8 @@
   
   
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=21color&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=21color&show_icons=true&theme=outrun)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21color&layout=compact&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21color&layout=compact&theme=outrun)
 
 </div>
