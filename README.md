@@ -16,6 +16,7 @@
   </br>
   <img src="https://img.shields.io/badge/👀 and..to be added-1de9b6?style=for-the-badge&"/>
    </br>
+   
   <h2><em>MY SKILLS 🐣</em></h2>
   
   ![HTML5](https://img.shields.io/badge/-HTML5-F7DB4F?style=flat-square&logo=HTML5)
@@ -27,7 +28,9 @@
   ![Pug](https://img.shields.io/badge/-pug-ffd3b5?style=flat-square&logo=pug)
   ![nodjs](https://img.shields.io/badge/-nodejs-green?style=flat-square&logo=Node.js)
   
+  <h2><em>VELOG 🐾</em><h2>
   
+  <a href="https://velog.io/@21color"><img src="https://img.shields.io/badge/VELOG-f50057?style=for-the-badge&logo=velog"/></a>
   
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=21color&show_icons=true&theme=buefy) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21color&layout=compact&theme=buefy)
