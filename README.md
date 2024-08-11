@@ -20,13 +20,13 @@
    
   <h2><em>MY SKILLS 🐣</em></h2>
   
-  ![REACT](https://img.shields.io/badge/-HTML5-F7DB4F?style=flat-square&logo=REACT)
+  ![REACT](https://img.shields.io/badge/-REACT-F7DB4F?style=flat-square&logo=REACT)
   ![CSS3](https://img.shields.io/badge/-CSS3-2F9599?style=flat-square&logo=CSS3)
   ![Javascript](https://img.shields.io/badge/-Javascript-blue?style=flat-square&logo=javascript)
   </br> 
-  ![Typescript](https://img.shields.io/badge/-jquery-727077?style=flat-square&logo=Typescript)
+  ![Typescript](https://img.shields.io/badge/-Typescript-727077?style=flat-square&logo=Typescript)
   ![SASS](https://img.shields.io/badge/-SASS-ffaaa6?style=flat-square&logo=sass)
-  ![Emotion](https://img.shields.io/badge/-pug-ffd3b5?style=flat-square&logo=Emotion)
+  ![Emotion](https://img.shields.io/badge/-Emotion-ffd3b5?style=flat-square&logo=Emotion)
   ![nodjs](https://img.shields.io/badge/-nodejs-green?style=flat-square&logo=Node.js)
   
   <h2><em>VELOG 🐾</em><h2>
