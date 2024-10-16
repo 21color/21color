@@ -5,15 +5,6 @@
   <h2><em>MY PROJECT 👏</em></h2>
   <a href="https://my-blog-nu-puce.vercel.app/"><img src="https://img.shields.io/badge/💜 HANA's ROOM-e7b9ff?style=for-the-badge"/></a>
   </br>
-    <a href="http://pager.kr:2000/force"><img src="https://img.shields.io/badge/🎫 FORCE-ff80ab?style=for-the-badge"/></a>
-    <a href="http://zerone.mireene.com/hana/matrixCal/html/matrix3.html"><img src="https://img.shields.io/badge/📚 Matrix Calculator-304ffe?style=for-the-badge&logo"/></a>
-  </br>
-    <a href="http://zerone.mireene.com/hana/eventpage/">
-    <img src="https://img.shields.io/badge/🐶EVENT PAGE-be9c91?style=for-the-badge"/></a>
-    <a href="http://zerone.mireene.com/hana/Characters/html/"><img src="https://img.shields.io/badge/🕸 Coraline-b71c1c?style=for-the-badge"/></a>
-    <a href="http://zerone.mireene.com/hana/product_detail/html/"><img src="https://img.shields.io/badge/👟 Product Detail-303A43?style=for-the-badge&"/></a>
-  </br>
-  </br>
   </br>
   <img src="https://img.shields.io/badge/👀 and..to be added-1de9b6?style=for-the-badge&"/>
    </br>
